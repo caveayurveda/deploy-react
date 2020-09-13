@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Route, Switch, BrowserRouter as Router} from 'react-router-dom'
+import {Route, Switch, HashRouter as Router} from 'react-router-dom'
 import Header from './components/Header/Header'
 import Home from './components/Home/Home'
 import {ParallaxProvider} from 'react-scroll-parallax'
@@ -23,7 +23,7 @@ class App extends Component {
   render() {
     return (
         <ParallaxProvider>
-          <Router>
+          <Router base="deploy-react">
             <Header/>
             <Switch>
               <Route component={Home} path='/' exact/>
