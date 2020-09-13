@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Route, Switch, BrowserRouter as Router, HashRouter} from 'react-router-dom'
+import {Route, Switch, BrowserRouter as Router} from 'react-router-dom'
 import Header from './components/Header/Header'
 import Home from './components/Home/Home'
 import {ParallaxProvider} from 'react-scroll-parallax'
@@ -23,7 +23,7 @@ class App extends Component {
   render() {
     return (
         <ParallaxProvider>
-          <HashRouter>
+          <Router>
             <Header/>
             <Switch>
               <Route component={Home} path='/' exact/>
@@ -43,7 +43,7 @@ class App extends Component {
               <Route component={MainBlog} path='/mainBlog/:id'/>
             </Switch>
             <Footer/>
-          </HashRouter>
+          </Router>
         </ParallaxProvider>
     )
   }
