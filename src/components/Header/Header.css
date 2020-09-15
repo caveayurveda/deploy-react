@@ -93,4 +93,9 @@
 marquee {
     padding-top: 5px;
 }
+.MuiAppBar-positionFixed {
+    position: absolute !important;
+    top: 28px;
+
+}
 
