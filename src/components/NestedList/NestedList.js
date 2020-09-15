@@ -39,14 +39,14 @@ class NestedList extends Component {
               <ListItem
                   button
                   key={subOption.name}>
-                <a
-                    href={subOption.url}
+                <Link
+                    a={subOption.url}
                     className={classes.links}>
                   <ListItemText
                       inset
                       primary={subOption.name}
                   />
-                </a>
+                </Link>
               </ListItem>
             </div>
         )
