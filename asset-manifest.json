@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.af606bb6.chunk.css",
-    "main.js": "/static/js/main.7a17847f.chunk.js",
-    "main.js.map": "/static/js/main.7a17847f.chunk.js.map",
+    "main.css": "/static/css/main.db30b658.chunk.css",
+    "main.js": "/static/js/main.adff4452.chunk.js",
+    "main.js.map": "/static/js/main.adff4452.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2c036d1a.js",
     "runtime-main.js.map": "/static/js/runtime-main.2c036d1a.js.map",
     "static/css/2.b81ec60b.chunk.css": "/static/css/2.b81ec60b.chunk.css",
-    "static/js/2.a54bb7d0.chunk.js": "/static/js/2.a54bb7d0.chunk.js",
-    "static/js/2.a54bb7d0.chunk.js.map": "/static/js/2.a54bb7d0.chunk.js.map",
+    "static/js/2.a4672107.chunk.js": "/static/js/2.a4672107.chunk.js",
+    "static/js/2.a4672107.chunk.js.map": "/static/js/2.a4672107.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bcf038c6cc2a43092307e731c676ed6a.js": "/precache-manifest.bcf038c6cc2a43092307e731c676ed6a.js",
+    "precache-manifest.6991f06e50392a5fa0b16d4ee3ec560b.js": "/precache-manifest.6991f06e50392a5fa0b16d4ee3ec560b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b81ec60b.chunk.css.map": "/static/css/2.b81ec60b.chunk.css.map",
-    "static/css/main.af606bb6.chunk.css.map": "/static/css/main.af606bb6.chunk.css.map",
-    "static/js/2.a54bb7d0.chunk.js.LICENSE.txt": "/static/js/2.a54bb7d0.chunk.js.LICENSE.txt",
+    "static/css/main.db30b658.chunk.css.map": "/static/css/main.db30b658.chunk.css.map",
+    "static/js/2.a4672107.chunk.js.LICENSE.txt": "/static/js/2.a4672107.chunk.js.LICENSE.txt",
     "static/media/AshwagandhaSlide1.png": "/static/media/AshwagandhaSlide1.711b9a56.png",
     "static/media/AshwagandhaSlide2.png": "/static/media/AshwagandhaSlide2.46c68e23.png",
     "static/media/AshwagandhaSlide3.png": "/static/media/AshwagandhaSlide3.0090a99c.png",
@@ -39,7 +39,6 @@
     "static/media/TriphalaSlide4.png": "/static/media/TriphalaSlide4.8058d59c.png",
     "static/media/TriphalaSlide5.png": "/static/media/TriphalaSlide5.42a59eab.png",
     "static/media/TriphalaSlide6.png": "/static/media/TriphalaSlide6.b670a7c3.png",
-    "static/media/Untitled presentation.png": "/static/media/Untitled presentation.bb54a6f6.png",
     "static/media/Website logo.PNG": "/static/media/Website logo.8cf31396.PNG",
     "static/media/abby-boggier-boadZKqd1YM-unsplash.jpg": "/static/media/abby-boggier-boadZKqd1YM-unsplash.fbb2ac3b.jpg",
     "static/media/aboutUsBanner.jpg": "/static/media/aboutUsBanner.1961aa78.jpg",
@@ -74,8 +73,6 @@
     "static/media/immunityboosterSlide2.png": "/static/media/immunityboosterSlide2.66efdfd0.png",
     "static/media/immunityboosterSlide3.png": "/static/media/immunityboosterSlide3.05d96028.png",
     "static/media/immunityboosterSlide4.png": "/static/media/immunityboosterSlide4.c3698526.png",
-    "static/media/location.png": "/static/media/location.2f747cb5.png",
-    "static/media/luca-volpe-S1g3C9xVgVs-unsplash.jpg": "/static/media/luca-volpe-S1g3C9xVgVs-unsplash.f80cdc3d.jpg",
     "static/media/mindWellness.png": "/static/media/mindWellness.6af5e637.png",
     "static/media/mindWellnessSlide1.png": "/static/media/mindWellnessSlide1.dad10082.png",
     "static/media/mindWellnessSlide2.png": "/static/media/mindWellnessSlide2.b3e17833.png",
@@ -98,8 +95,8 @@
   "entrypoints": [
     "static/js/runtime-main.2c036d1a.js",
     "static/css/2.b81ec60b.chunk.css",
-    "static/js/2.a54bb7d0.chunk.js",
-    "static/css/main.af606bb6.chunk.css",
-    "static/js/main.7a17847f.chunk.js"
+    "static/js/2.a4672107.chunk.js",
+    "static/css/main.db30b658.chunk.css",
+    "static/js/main.adff4452.chunk.js"
   ]
 }

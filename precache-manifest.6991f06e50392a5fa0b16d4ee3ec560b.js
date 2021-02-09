@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "357ce694ef1742b02e33cd870d067b46",
+    "revision": "3e530338dbff158302b8a66094f4da7d",
     "url": "/index.html"
   },
   {
-    "revision": "426c8c85633b823dc7e4",
+    "revision": "f5794da6040f188a5379",
     "url": "/static/css/2.b81ec60b.chunk.css"
   },
   {
-    "revision": "86573e61eeb1266c6a86",
-    "url": "/static/css/main.af606bb6.chunk.css"
+    "revision": "f4fb7050aef9967e5a32",
+    "url": "/static/css/main.db30b658.chunk.css"
   },
   {
-    "revision": "426c8c85633b823dc7e4",
-    "url": "/static/js/2.a54bb7d0.chunk.js"
+    "revision": "f5794da6040f188a5379",
+    "url": "/static/js/2.a4672107.chunk.js"
   },
   {
     "revision": "d09ac505fec0e9130a1d5b85fb3fa6dc",
-    "url": "/static/js/2.a54bb7d0.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a4672107.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86573e61eeb1266c6a86",
-    "url": "/static/js/main.7a17847f.chunk.js"
+    "revision": "f4fb7050aef9967e5a32",
+    "url": "/static/js/main.adff4452.chunk.js"
   },
   {
     "revision": "f4a3766710e203b7dcb8",
@@ -126,10 +126,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b670a7c3d22557b6b8f2eb8735b548a3",
     "url": "/static/media/TriphalaSlide6.b670a7c3.png"
-  },
-  {
-    "revision": "bb54a6f6079baca49cb3d107159b75d2",
-    "url": "/static/media/Untitled presentation.bb54a6f6.png"
   },
   {
     "revision": "8cf3139654d770f9437ba126d174efdd",
@@ -282,14 +278,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c3698526da9f73a71209cdaefa41dd91",
     "url": "/static/media/immunityboosterSlide4.c3698526.png"
-  },
-  {
-    "revision": "2f747cb589d411008d7290c303e8eb5e",
-    "url": "/static/media/location.2f747cb5.png"
-  },
-  {
-    "revision": "f80cdc3d611e43b96b34e1a6f5558754",
-    "url": "/static/media/luca-volpe-S1g3C9xVgVs-unsplash.f80cdc3d.jpg"
   },
   {
     "revision": "6af5e637a5cceb180eb7ed606062e43b",
