@@ -6,7 +6,6 @@ import Collapse from '@material-ui/core/Collapse'
 import ExpandLess from '@material-ui/icons/ExpandLess'
 import ExpandMore from '@material-ui/icons/ExpandMore'
 import {withStyles} from '@material-ui/core/styles'
-import {Link} from 'react-router-dom'
 import menuItems from '../menuItems'
 
 const styles = {

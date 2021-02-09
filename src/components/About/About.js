@@ -1,8 +1,6 @@
 import React, {Component} from 'react';
 import aboutUsBanner from '../../assets/images/aboutUsBanner.jpg'
 import mission from '../../assets/images/abby-boggier-boadZKqd1YM-unsplash.jpg';
-import vision from '../../assets/images/luca-volpe-S1g3C9xVgVs-unsplash.jpg';
-import missionVision from '../../assets/images/Untitled presentation.png'
 
 class About extends Component {
   render() {

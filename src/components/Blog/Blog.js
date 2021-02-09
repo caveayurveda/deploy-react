@@ -1,17 +1,11 @@
-import React, {Component} from 'react';
+import React from 'react';
 import BlogData from '../MainBlogData'
-import {Route, Switch, useHistory} from "react-router-dom";
 import {Link} from 'react-router-dom'
-import blog1_heading from '../../assets/images/blog1_heading.png'
-import MainBlog from '../MainBlog/MainBlog'
 
-const onClickReadMore = (value, props) => {
-  props.history.push({pathname: `/mainBlog/${value.id}`, state: value})
 
-};
 const Blog = (props) => {
   console.log(BlogData);
-  const {match} = props;
+  // const {match} = props;
 
   return (
       <div className='blog mb-80'>

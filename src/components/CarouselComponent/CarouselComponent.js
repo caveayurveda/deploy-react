@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 
 import {
   Carousel,
@@ -30,24 +30,24 @@ const CarouselComponent = (props) => {
     setActiveIndex(newIndex)
   }
   const slides = items.map((item, index) => {
-        return (
+    return (
 
-            <CarouselItem onExiting={() => setAnimating(true)}
-                          onExited={() => setAnimating(false)}
-                          key={index}>
-              <img src={item} className='w-100' />
-            </CarouselItem>
-        )
-      }
+      <CarouselItem onExiting={() => setAnimating(true)}
+        onExited={() => setAnimating(false)}
+        key={index}>
+        <img src={item} className='w-100' alt={index} />
+      </CarouselItem>
+    )
+  }
   )
 
   return (
-      <Carousel activeIndex={activeIndex} next={next} previous={previous}>
-        <CarouselIndicators items={items} activeIndex={activeIndex} onClickHandler={goToIndex}/>
-        {slides}
-        <CarouselControl direction="prev" directionText='previous' onClickHandler={previous}/>
-        <CarouselControl direction="next" directionText='next' onClickHandler={next}/>
-      </Carousel>
+    <Carousel activeIndex={activeIndex} next={next} previous={previous}>
+      <CarouselIndicators items={items} activeIndex={activeIndex} onClickHandler={goToIndex} />
+      {slides}
+      <CarouselControl direction="prev" directionText='previous' onClickHandler={previous} />
+      <CarouselControl direction="next" directionText='next' onClickHandler={next} />
+    </Carousel>
   )
 }
 
